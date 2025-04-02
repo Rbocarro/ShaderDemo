@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 175b2161b3c5fe8479ceef3f8cfbdf33, type: 3}
-  m_Name: ErosionShader
+  m_Name: Holofoil
   m_EditorClassIdentifier: 
-  material: {fileID: 0}
-  materialName: Erosion Shader
-  materialDescription: erosion shader that fades with time
+  material: {fileID: 2100000, guid: 07fe81d80a646b74c885b5e4c427674f, type: 2}
+  materialName: Holofoil
+  materialDescription: Holofoil
